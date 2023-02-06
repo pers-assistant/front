@@ -1,0 +1,3 @@
+site_name: Personal Assistant docs
+nav:
+  - Home: index.md
